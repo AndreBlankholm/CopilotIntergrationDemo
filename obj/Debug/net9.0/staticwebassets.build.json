@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "me31sBKAwuMXfU54MzDvZ5Hh/u7G7lvso7pRkuN094A=",
+  "Hash": "VLMZUOTkQDspef4CUjO9H2dzeWIw2cRhqWPX1B9YWr0=",
   "Source": "CopilotIntergrationDemo",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "74z5ii6b3x",
-      "Integrity": "BzsvZQsxkH0i5PPpijqqgesfxPaMuagd36ZpTZb3iDg=",
+      "Fingerprint": "ag7a4qq94k",
+      "Integrity": "xq9BHUf6wYmvKcUf9eH50hgWb5jKaBSfADoH18UG3cQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "me0ftqz38p",
-      "Integrity": "MntTuJszhq6E6S5UIyGrZ7EwXykHArg/yyUw3Oda3Jg=",
+      "Fingerprint": "3u2vpxgsja",
+      "Integrity": "5QJf/SJkiImSQluddRdDbUQDgXTw8kK0JjOKZMZ0VV0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\CopilotIntergrationDemo.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "3p779jt3e2",
-      "Integrity": "SXh0ntSl7wrGZ1U5gQqwmbHF6pKS4l433CRzRhAaGZk=",
+      "Fingerprint": "1oqkbb2x8o",
+      "Integrity": "ARtaLE1nAFwO2G98s598vkRiTGktOX99AJzfUbxZGi8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\webcil\\CopilotIntergrationDemo.wasm"
@@ -4532,12 +4532,12 @@
       "OriginalItemSpec": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\1pg3f9k3co-3p779jt3e2.gz",
+      "Identity": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\1pg3f9k3co-1oqkbb2x8o.gz",
       "SourceId": "CopilotIntergrationDemo",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/CopilotIntergrationDemo#[.{fingerprint=3p779jt3e2}]!.wasm.gz",
+      "RelativePath": "_framework/CopilotIntergrationDemo#[.{fingerprint=1oqkbb2x8o}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4546,8 +4546,8 @@
       "RelatedAsset": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CopilotIntergrationDemo.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2o3em9plyk",
-      "Integrity": "EnRTtvOAr49mbirboNFDU6US0WHVb4+fTSh1+rmVw44=",
+      "Fingerprint": "v2te2n363f",
+      "Integrity": "tziEcAwA4mZmHUa/8Yz6JJNNOJLPQcFdx/bLoOhZniQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CopilotIntergrationDemo.wasm"
@@ -5561,12 +5561,12 @@
       "OriginalItemSpec": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.wasm"
     },
     {
-      "Identity": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\8s4iu5bpjz-me0ftqz38p.gz",
+      "Identity": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\8s4iu5bpjz-3u2vpxgsja.gz",
       "SourceId": "CopilotIntergrationDemo",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/CopilotIntergrationDemo#[.{fingerprint=me0ftqz38p}]!.pdb.gz",
+      "RelativePath": "_framework/CopilotIntergrationDemo#[.{fingerprint=3u2vpxgsja}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5575,8 +5575,8 @@
       "RelatedAsset": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CopilotIntergrationDemo.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8599w2zzme",
-      "Integrity": "jO6/w2PMSCo2bWJr4W5oIK3KQn6kOR2qYUr6uwZjwDQ=",
+      "Fingerprint": "zukf08tnqv",
+      "Integrity": "W8eyX1nm6TJJFuznhNRKrxxLWQXuPWt8oIwrxBAgVLM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CopilotIntergrationDemo.pdb"
@@ -7997,12 +7997,12 @@
       "OriginalItemSpec": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Collections.wasm"
     },
     {
-      "Identity": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\p1yhwit2gs-9idion34rq.gz",
+      "Identity": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\p1yhwit2gs-ws6rhrtx47.gz",
       "SourceId": "CopilotIntergrationDemo",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "CopilotIntergrationDemo#[.{fingerprint=9idion34rq}]?.styles.css.gz",
+      "RelativePath": "CopilotIntergrationDemo#[.{fingerprint=ws6rhrtx47}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -8011,8 +8011,8 @@
       "RelatedAsset": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CopilotIntergrationDemo.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "a8ki8pblkc",
-      "Integrity": "Fs2GTDxlUz3FIcVsNQNIsrEVFwNbDnMIPCtkLQcuLzk=",
+      "Fingerprint": "w3hy72ieqi",
+      "Integrity": "5CVWp3g/9nuicGlPvXgV7L013ZmAlESec0iPCza7Buw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CopilotIntergrationDemo.styles.css"
@@ -8585,7 +8585,7 @@
       "OriginalItemSpec": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.Quic.wasm"
     },
     {
-      "Identity": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\thycz58z7i-74z5ii6b3x.gz",
+      "Identity": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\thycz58z7i-ag7a4qq94k.gz",
       "SourceId": "CopilotIntergrationDemo",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\",
@@ -8599,8 +8599,8 @@
       "RelatedAsset": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7ai3gv17b7",
-      "Integrity": "scQ/4vrEZO27skX9Jri69mvSJtRx29g+gUdj5FVNnEc=",
+      "Fingerprint": "cbe497qryd",
+      "Integrity": "iFn9DVz9an6pwF+drOfvprJNFcztBTzr3QBlCpIqBSk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8984,12 +8984,12 @@
       "OriginalItemSpec": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.Cryptography.Csp.wasm"
     },
     {
-      "Identity": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\wd2hra1j2t-9idion34rq.gz",
+      "Identity": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\wd2hra1j2t-ws6rhrtx47.gz",
       "SourceId": "CopilotIntergrationDemo",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "CopilotIntergrationDemo#[.{fingerprint=9idion34rq}]!.bundle.scp.css.gz",
+      "RelativePath": "CopilotIntergrationDemo#[.{fingerprint=ws6rhrtx47}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -8998,8 +8998,8 @@
       "RelatedAsset": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CopilotIntergrationDemo.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "a8ki8pblkc",
-      "Integrity": "Fs2GTDxlUz3FIcVsNQNIsrEVFwNbDnMIPCtkLQcuLzk=",
+      "Fingerprint": "w3hy72ieqi",
+      "Integrity": "5CVWp3g/9nuicGlPvXgV7L013ZmAlESec0iPCza7Buw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CopilotIntergrationDemo.bundle.scp.css"
@@ -9628,8 +9628,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "9idion34rq",
-      "Integrity": "H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE=",
+      "Fingerprint": "ws6rhrtx47",
+      "Integrity": "0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CopilotIntergrationDemo.styles.css"
@@ -9649,8 +9649,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "9idion34rq",
-      "Integrity": "H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE=",
+      "Fingerprint": "ws6rhrtx47",
+      "Integrity": "0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CopilotIntergrationDemo.bundle.scp.css"
@@ -10705,11 +10705,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BzsvZQsxkH0i5PPpijqqgesfxPaMuagd36ZpTZb3iDg=\""
+          "Value": "\"xq9BHUf6wYmvKcUf9eH50hgWb5jKaBSfADoH18UG3cQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:27 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,18 +10719,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BzsvZQsxkH0i5PPpijqqgesfxPaMuagd36ZpTZb3iDg="
+          "Value": "sha256-xq9BHUf6wYmvKcUf9eH50hgWb5jKaBSfADoH18UG3cQ="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\thycz58z7i-74z5ii6b3x.gz",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\thycz58z7i-ag7a4qq94k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081149071"
+          "Quality": "0.000081162243"
         }
       ],
       "ResponseHeaders": [
@@ -10740,15 +10740,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12322"
+          "Value": "12320"
         },
         {
           "Name": "ETag",
-          "Value": "\"scQ/4vrEZO27skX9Jri69mvSJtRx29g+gUdj5FVNnEc=\""
+          "Value": "\"iFn9DVz9an6pwF+drOfvprJNFcztBTzr3QBlCpIqBSk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:04 GMT"
+          "Value": "Thu, 29 Jan 2026 02:10:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BzsvZQsxkH0i5PPpijqqgesfxPaMuagd36ZpTZb3iDg=\""
+          "Value": "W/\"xq9BHUf6wYmvKcUf9eH50hgWb5jKaBSfADoH18UG3cQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BzsvZQsxkH0i5PPpijqqgesfxPaMuagd36ZpTZb3iDg="
+          "Value": "sha256-xq9BHUf6wYmvKcUf9eH50hgWb5jKaBSfADoH18UG3cQ="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\thycz58z7i-74z5ii6b3x.gz",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\thycz58z7i-ag7a4qq94k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12322"
+          "Value": "12320"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"scQ/4vrEZO27skX9Jri69mvSJtRx29g+gUdj5FVNnEc=\""
+          "Value": "\"iFn9DVz9an6pwF+drOfvprJNFcztBTzr3QBlCpIqBSk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:04 GMT"
+          "Value": "Thu, 29 Jan 2026 02:10:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-scQ/4vrEZO27skX9Jri69mvSJtRx29g+gUdj5FVNnEc="
+          "Value": "sha256-iFn9DVz9an6pwF+drOfvprJNFcztBTzr3QBlCpIqBSk="
         }
       ]
     },
@@ -10961,7 +10961,7 @@
       ]
     },
     {
-      "Route": "_framework/CopilotIntergrationDemo.3p779jt3e2.wasm",
+      "Route": "_framework/CopilotIntergrationDemo.1oqkbb2x8o.wasm",
       "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CopilotIntergrationDemo.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10971,7 +10971,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27413"
+          "Value": "30997"
         },
         {
           "Name": "Content-Type",
@@ -10979,11 +10979,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SXh0ntSl7wrGZ1U5gQqwmbHF6pKS4l433CRzRhAaGZk=\""
+          "Value": "\"ARtaLE1nAFwO2G98s598vkRiTGktOX99AJzfUbxZGi8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:26 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10993,7 +10993,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3p779jt3e2"
+          "Value": "1oqkbb2x8o"
         },
         {
           "Name": "label",
@@ -11001,18 +11001,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SXh0ntSl7wrGZ1U5gQqwmbHF6pKS4l433CRzRhAaGZk="
+          "Value": "sha256-ARtaLE1nAFwO2G98s598vkRiTGktOX99AJzfUbxZGi8="
         }
       ]
     },
     {
-      "Route": "_framework/CopilotIntergrationDemo.3p779jt3e2.wasm",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\1pg3f9k3co-3p779jt3e2.gz",
+      "Route": "_framework/CopilotIntergrationDemo.1oqkbb2x8o.wasm",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\1pg3f9k3co-1oqkbb2x8o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000087804021"
+          "Quality": "0.000080965104"
         }
       ],
       "ResponseHeaders": [
@@ -11022,15 +11022,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11388"
+          "Value": "12350"
         },
         {
           "Name": "ETag",
-          "Value": "\"EnRTtvOAr49mbirboNFDU6US0WHVb4+fTSh1+rmVw44=\""
+          "Value": "\"tziEcAwA4mZmHUa/8Yz6JJNNOJLPQcFdx/bLoOhZniQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:27 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11050,13 +11050,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SXh0ntSl7wrGZ1U5gQqwmbHF6pKS4l433CRzRhAaGZk=\""
+          "Value": "W/\"ARtaLE1nAFwO2G98s598vkRiTGktOX99AJzfUbxZGi8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3p779jt3e2"
+          "Value": "1oqkbb2x8o"
         },
         {
           "Name": "label",
@@ -11064,13 +11064,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SXh0ntSl7wrGZ1U5gQqwmbHF6pKS4l433CRzRhAaGZk="
+          "Value": "sha256-ARtaLE1nAFwO2G98s598vkRiTGktOX99AJzfUbxZGi8="
         }
       ]
     },
     {
-      "Route": "_framework/CopilotIntergrationDemo.3p779jt3e2.wasm.gz",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\1pg3f9k3co-3p779jt3e2.gz",
+      "Route": "_framework/CopilotIntergrationDemo.1oqkbb2x8o.wasm.gz",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\1pg3f9k3co-1oqkbb2x8o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11079,7 +11079,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11388"
+          "Value": "12350"
         },
         {
           "Name": "Content-Type",
@@ -11087,11 +11087,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EnRTtvOAr49mbirboNFDU6US0WHVb4+fTSh1+rmVw44=\""
+          "Value": "\"tziEcAwA4mZmHUa/8Yz6JJNNOJLPQcFdx/bLoOhZniQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:27 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11109,7 +11109,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3p779jt3e2"
+          "Value": "1oqkbb2x8o"
         },
         {
           "Name": "label",
@@ -11117,12 +11117,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EnRTtvOAr49mbirboNFDU6US0WHVb4+fTSh1+rmVw44="
+          "Value": "sha256-tziEcAwA4mZmHUa/8Yz6JJNNOJLPQcFdx/bLoOhZniQ="
         }
       ]
     },
     {
-      "Route": "_framework/CopilotIntergrationDemo.me0ftqz38p.pdb",
+      "Route": "_framework/CopilotIntergrationDemo.3u2vpxgsja.pdb",
       "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CopilotIntergrationDemo.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11132,7 +11132,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26712"
+          "Value": "29356"
         },
         {
           "Name": "Content-Type",
@@ -11140,11 +11140,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MntTuJszhq6E6S5UIyGrZ7EwXykHArg/yyUw3Oda3Jg=\""
+          "Value": "\"5QJf/SJkiImSQluddRdDbUQDgXTw8kK0JjOKZMZ0VV0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:26 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11154,7 +11154,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "me0ftqz38p"
+          "Value": "3u2vpxgsja"
         },
         {
           "Name": "label",
@@ -11162,18 +11162,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MntTuJszhq6E6S5UIyGrZ7EwXykHArg/yyUw3Oda3Jg="
+          "Value": "sha256-5QJf/SJkiImSQluddRdDbUQDgXTw8kK0JjOKZMZ0VV0="
         }
       ]
     },
     {
-      "Route": "_framework/CopilotIntergrationDemo.me0ftqz38p.pdb",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\8s4iu5bpjz-me0ftqz38p.gz",
+      "Route": "_framework/CopilotIntergrationDemo.3u2vpxgsja.pdb",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\8s4iu5bpjz-3u2vpxgsja.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000052361504"
+          "Quality": "0.000046737708"
         }
       ],
       "ResponseHeaders": [
@@ -11183,15 +11183,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19097"
+          "Value": "21395"
         },
         {
           "Name": "ETag",
-          "Value": "\"jO6/w2PMSCo2bWJr4W5oIK3KQn6kOR2qYUr6uwZjwDQ=\""
+          "Value": "\"W8eyX1nm6TJJFuznhNRKrxxLWQXuPWt8oIwrxBAgVLM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:27 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11211,13 +11211,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MntTuJszhq6E6S5UIyGrZ7EwXykHArg/yyUw3Oda3Jg=\""
+          "Value": "W/\"5QJf/SJkiImSQluddRdDbUQDgXTw8kK0JjOKZMZ0VV0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "me0ftqz38p"
+          "Value": "3u2vpxgsja"
         },
         {
           "Name": "label",
@@ -11225,13 +11225,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MntTuJszhq6E6S5UIyGrZ7EwXykHArg/yyUw3Oda3Jg="
+          "Value": "sha256-5QJf/SJkiImSQluddRdDbUQDgXTw8kK0JjOKZMZ0VV0="
         }
       ]
     },
     {
-      "Route": "_framework/CopilotIntergrationDemo.me0ftqz38p.pdb.gz",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\8s4iu5bpjz-me0ftqz38p.gz",
+      "Route": "_framework/CopilotIntergrationDemo.3u2vpxgsja.pdb.gz",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\8s4iu5bpjz-3u2vpxgsja.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11240,7 +11240,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19097"
+          "Value": "21395"
         },
         {
           "Name": "Content-Type",
@@ -11248,11 +11248,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jO6/w2PMSCo2bWJr4W5oIK3KQn6kOR2qYUr6uwZjwDQ=\""
+          "Value": "\"W8eyX1nm6TJJFuznhNRKrxxLWQXuPWt8oIwrxBAgVLM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:27 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11270,7 +11270,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "me0ftqz38p"
+          "Value": "3u2vpxgsja"
         },
         {
           "Name": "label",
@@ -11278,7 +11278,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jO6/w2PMSCo2bWJr4W5oIK3KQn6kOR2qYUr6uwZjwDQ="
+          "Value": "sha256-W8eyX1nm6TJJFuznhNRKrxxLWQXuPWt8oIwrxBAgVLM="
         }
       ]
     },
@@ -11293,7 +11293,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26712"
+          "Value": "29356"
         },
         {
           "Name": "Content-Type",
@@ -11301,11 +11301,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MntTuJszhq6E6S5UIyGrZ7EwXykHArg/yyUw3Oda3Jg=\""
+          "Value": "\"5QJf/SJkiImSQluddRdDbUQDgXTw8kK0JjOKZMZ0VV0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:26 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11315,18 +11315,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MntTuJszhq6E6S5UIyGrZ7EwXykHArg/yyUw3Oda3Jg="
+          "Value": "sha256-5QJf/SJkiImSQluddRdDbUQDgXTw8kK0JjOKZMZ0VV0="
         }
       ]
     },
     {
       "Route": "_framework/CopilotIntergrationDemo.pdb",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\8s4iu5bpjz-me0ftqz38p.gz",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\8s4iu5bpjz-3u2vpxgsja.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000052361504"
+          "Quality": "0.000046737708"
         }
       ],
       "ResponseHeaders": [
@@ -11336,15 +11336,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19097"
+          "Value": "21395"
         },
         {
           "Name": "ETag",
-          "Value": "\"jO6/w2PMSCo2bWJr4W5oIK3KQn6kOR2qYUr6uwZjwDQ=\""
+          "Value": "\"W8eyX1nm6TJJFuznhNRKrxxLWQXuPWt8oIwrxBAgVLM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:27 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11364,19 +11364,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MntTuJszhq6E6S5UIyGrZ7EwXykHArg/yyUw3Oda3Jg=\""
+          "Value": "W/\"5QJf/SJkiImSQluddRdDbUQDgXTw8kK0JjOKZMZ0VV0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MntTuJszhq6E6S5UIyGrZ7EwXykHArg/yyUw3Oda3Jg="
+          "Value": "sha256-5QJf/SJkiImSQluddRdDbUQDgXTw8kK0JjOKZMZ0VV0="
         }
       ]
     },
     {
       "Route": "_framework/CopilotIntergrationDemo.pdb.gz",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\8s4iu5bpjz-me0ftqz38p.gz",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\8s4iu5bpjz-3u2vpxgsja.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11385,7 +11385,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19097"
+          "Value": "21395"
         },
         {
           "Name": "Content-Type",
@@ -11393,11 +11393,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jO6/w2PMSCo2bWJr4W5oIK3KQn6kOR2qYUr6uwZjwDQ=\""
+          "Value": "\"W8eyX1nm6TJJFuznhNRKrxxLWQXuPWt8oIwrxBAgVLM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:27 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11415,7 +11415,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jO6/w2PMSCo2bWJr4W5oIK3KQn6kOR2qYUr6uwZjwDQ="
+          "Value": "sha256-W8eyX1nm6TJJFuznhNRKrxxLWQXuPWt8oIwrxBAgVLM="
         }
       ]
     },
@@ -11430,7 +11430,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27413"
+          "Value": "30997"
         },
         {
           "Name": "Content-Type",
@@ -11438,11 +11438,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SXh0ntSl7wrGZ1U5gQqwmbHF6pKS4l433CRzRhAaGZk=\""
+          "Value": "\"ARtaLE1nAFwO2G98s598vkRiTGktOX99AJzfUbxZGi8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:26 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11452,18 +11452,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SXh0ntSl7wrGZ1U5gQqwmbHF6pKS4l433CRzRhAaGZk="
+          "Value": "sha256-ARtaLE1nAFwO2G98s598vkRiTGktOX99AJzfUbxZGi8="
         }
       ]
     },
     {
       "Route": "_framework/CopilotIntergrationDemo.wasm",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\1pg3f9k3co-3p779jt3e2.gz",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\1pg3f9k3co-1oqkbb2x8o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000087804021"
+          "Quality": "0.000080965104"
         }
       ],
       "ResponseHeaders": [
@@ -11473,15 +11473,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11388"
+          "Value": "12350"
         },
         {
           "Name": "ETag",
-          "Value": "\"EnRTtvOAr49mbirboNFDU6US0WHVb4+fTSh1+rmVw44=\""
+          "Value": "\"tziEcAwA4mZmHUa/8Yz6JJNNOJLPQcFdx/bLoOhZniQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:27 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11501,19 +11501,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SXh0ntSl7wrGZ1U5gQqwmbHF6pKS4l433CRzRhAaGZk=\""
+          "Value": "W/\"ARtaLE1nAFwO2G98s598vkRiTGktOX99AJzfUbxZGi8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SXh0ntSl7wrGZ1U5gQqwmbHF6pKS4l433CRzRhAaGZk="
+          "Value": "sha256-ARtaLE1nAFwO2G98s598vkRiTGktOX99AJzfUbxZGi8="
         }
       ]
     },
     {
       "Route": "_framework/CopilotIntergrationDemo.wasm.gz",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\1pg3f9k3co-3p779jt3e2.gz",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\1pg3f9k3co-1oqkbb2x8o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11522,7 +11522,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11388"
+          "Value": "12350"
         },
         {
           "Name": "Content-Type",
@@ -11530,11 +11530,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EnRTtvOAr49mbirboNFDU6US0WHVb4+fTSh1+rmVw44=\""
+          "Value": "\"tziEcAwA4mZmHUa/8Yz6JJNNOJLPQcFdx/bLoOhZniQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:53:27 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11552,7 +11552,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EnRTtvOAr49mbirboNFDU6US0WHVb4+fTSh1+rmVw44="
+          "Value": "sha256-tziEcAwA4mZmHUa/8Yz6JJNNOJLPQcFdx/bLoOhZniQ="
         }
       ]
     },
@@ -71157,13 +71157,13 @@
       ]
     },
     {
-      "Route": "CopilotIntergrationDemo.9idion34rq.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\wd2hra1j2t-9idion34rq.gz",
+      "Route": "CopilotIntergrationDemo.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\wd2hra1j2t-ws6rhrtx47.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000713775874"
+          "Quality": "0.000687285223"
         }
       ],
       "ResponseHeaders": [
@@ -71173,19 +71173,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1400"
+          "Value": "1454"
         },
         {
           "Name": "ETag",
-          "Value": "\"Fs2GTDxlUz3FIcVsNQNIsrEVFwNbDnMIPCtkLQcuLzk=\""
+          "Value": "\"5CVWp3g/9nuicGlPvXgV7L013ZmAlESec0iPCza7Buw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:46:38 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -71201,26 +71201,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE=\""
+          "Value": "W/\"0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "9idion34rq"
-        },
-        {
-          "Name": "label",
-          "Value": "CopilotIntergrationDemo.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE="
+          "Value": "sha256-0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A="
         }
       ]
     },
     {
-      "Route": "CopilotIntergrationDemo.9idion34rq.bundle.scp.css",
+      "Route": "CopilotIntergrationDemo.bundle.scp.css",
       "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CopilotIntergrationDemo.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71230,7 +71222,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4653"
+          "Value": "4993"
         },
         {
           "Name": "Content-Type",
@@ -71238,11 +71230,293 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE=\""
+          "Value": "\"0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:46:38 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A="
+        }
+      ]
+    },
+    {
+      "Route": "CopilotIntergrationDemo.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\wd2hra1j2t-ws6rhrtx47.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CVWp3g/9nuicGlPvXgV7L013ZmAlESec0iPCza7Buw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CVWp3g/9nuicGlPvXgV7L013ZmAlESec0iPCza7Buw="
+        }
+      ]
+    },
+    {
+      "Route": "CopilotIntergrationDemo.styles.css",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\p1yhwit2gs-ws6rhrtx47.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000687285223"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1454"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CVWp3g/9nuicGlPvXgV7L013ZmAlESec0iPCza7Buw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A="
+        }
+      ]
+    },
+    {
+      "Route": "CopilotIntergrationDemo.styles.css",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CopilotIntergrationDemo.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A="
+        }
+      ]
+    },
+    {
+      "Route": "CopilotIntergrationDemo.styles.css.gz",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\p1yhwit2gs-ws6rhrtx47.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CVWp3g/9nuicGlPvXgV7L013ZmAlESec0iPCza7Buw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CVWp3g/9nuicGlPvXgV7L013ZmAlESec0iPCza7Buw="
+        }
+      ]
+    },
+    {
+      "Route": "CopilotIntergrationDemo.ws6rhrtx47.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\wd2hra1j2t-ws6rhrtx47.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000687285223"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1454"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CVWp3g/9nuicGlPvXgV7L013ZmAlESec0iPCza7Buw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ws6rhrtx47"
+        },
+        {
+          "Name": "label",
+          "Value": "CopilotIntergrationDemo.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A="
+        }
+      ]
+    },
+    {
+      "Route": "CopilotIntergrationDemo.ws6rhrtx47.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CopilotIntergrationDemo.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71252,7 +71526,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9idion34rq"
+          "Value": "ws6rhrtx47"
         },
         {
           "Name": "label",
@@ -71260,13 +71534,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE="
+          "Value": "sha256-0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A="
         }
       ]
     },
     {
-      "Route": "CopilotIntergrationDemo.9idion34rq.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\wd2hra1j2t-9idion34rq.gz",
+      "Route": "CopilotIntergrationDemo.ws6rhrtx47.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\wd2hra1j2t-ws6rhrtx47.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71275,7 +71549,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1400"
+          "Value": "1454"
         },
         {
           "Name": "Content-Type",
@@ -71283,11 +71557,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fs2GTDxlUz3FIcVsNQNIsrEVFwNbDnMIPCtkLQcuLzk=\""
+          "Value": "\"5CVWp3g/9nuicGlPvXgV7L013ZmAlESec0iPCza7Buw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:46:38 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71305,7 +71579,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9idion34rq"
+          "Value": "ws6rhrtx47"
         },
         {
           "Name": "label",
@@ -71313,18 +71587,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Fs2GTDxlUz3FIcVsNQNIsrEVFwNbDnMIPCtkLQcuLzk="
+          "Value": "sha256-5CVWp3g/9nuicGlPvXgV7L013ZmAlESec0iPCza7Buw="
         }
       ]
     },
     {
-      "Route": "CopilotIntergrationDemo.9idion34rq.styles.css",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\p1yhwit2gs-9idion34rq.gz",
+      "Route": "CopilotIntergrationDemo.ws6rhrtx47.styles.css",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\p1yhwit2gs-ws6rhrtx47.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000713775874"
+          "Quality": "0.000687285223"
         }
       ],
       "ResponseHeaders": [
@@ -71334,15 +71608,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1400"
+          "Value": "1454"
         },
         {
           "Name": "ETag",
-          "Value": "\"Fs2GTDxlUz3FIcVsNQNIsrEVFwNbDnMIPCtkLQcuLzk=\""
+          "Value": "\"5CVWp3g/9nuicGlPvXgV7L013ZmAlESec0iPCza7Buw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:46:38 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71362,13 +71636,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE=\""
+          "Value": "W/\"0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9idion34rq"
+          "Value": "ws6rhrtx47"
         },
         {
           "Name": "label",
@@ -71376,12 +71650,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE="
+          "Value": "sha256-0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A="
         }
       ]
     },
     {
-      "Route": "CopilotIntergrationDemo.9idion34rq.styles.css",
+      "Route": "CopilotIntergrationDemo.ws6rhrtx47.styles.css",
       "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CopilotIntergrationDemo.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71391,7 +71665,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4653"
+          "Value": "4993"
         },
         {
           "Name": "Content-Type",
@@ -71399,11 +71673,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE=\""
+          "Value": "\"0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:46:38 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71413,7 +71687,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9idion34rq"
+          "Value": "ws6rhrtx47"
         },
         {
           "Name": "label",
@@ -71421,13 +71695,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE="
+          "Value": "sha256-0Jee+DtcqmT95H5q+Mp4gXXNHJnk2hKslEV2FMfsr3A="
         }
       ]
     },
     {
-      "Route": "CopilotIntergrationDemo.9idion34rq.styles.css.gz",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\p1yhwit2gs-9idion34rq.gz",
+      "Route": "CopilotIntergrationDemo.ws6rhrtx47.styles.css.gz",
+      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\p1yhwit2gs-ws6rhrtx47.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71436,7 +71710,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1400"
+          "Value": "1454"
         },
         {
           "Name": "Content-Type",
@@ -71444,11 +71718,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fs2GTDxlUz3FIcVsNQNIsrEVFwNbDnMIPCtkLQcuLzk=\""
+          "Value": "\"5CVWp3g/9nuicGlPvXgV7L013ZmAlESec0iPCza7Buw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:46:38 GMT"
+          "Value": "Thu, 29 Jan 2026 02:11:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71466,7 +71740,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9idion34rq"
+          "Value": "ws6rhrtx47"
         },
         {
           "Name": "label",
@@ -71474,281 +71748,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Fs2GTDxlUz3FIcVsNQNIsrEVFwNbDnMIPCtkLQcuLzk="
-        }
-      ]
-    },
-    {
-      "Route": "CopilotIntergrationDemo.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\wd2hra1j2t-9idion34rq.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000713775874"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1400"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Fs2GTDxlUz3FIcVsNQNIsrEVFwNbDnMIPCtkLQcuLzk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:46:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE="
-        }
-      ]
-    },
-    {
-      "Route": "CopilotIntergrationDemo.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CopilotIntergrationDemo.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4653"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:46:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE="
-        }
-      ]
-    },
-    {
-      "Route": "CopilotIntergrationDemo.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\wd2hra1j2t-9idion34rq.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1400"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Fs2GTDxlUz3FIcVsNQNIsrEVFwNbDnMIPCtkLQcuLzk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:46:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Fs2GTDxlUz3FIcVsNQNIsrEVFwNbDnMIPCtkLQcuLzk="
-        }
-      ]
-    },
-    {
-      "Route": "CopilotIntergrationDemo.styles.css",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\p1yhwit2gs-9idion34rq.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000713775874"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1400"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Fs2GTDxlUz3FIcVsNQNIsrEVFwNbDnMIPCtkLQcuLzk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:46:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE="
-        }
-      ]
-    },
-    {
-      "Route": "CopilotIntergrationDemo.styles.css",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CopilotIntergrationDemo.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4653"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:46:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-H+eNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE="
-        }
-      ]
-    },
-    {
-      "Route": "CopilotIntergrationDemo.styles.css.gz",
-      "AssetFile": "C:\\Users\\ablan\\Documents\\Repos\\CopilotIntergrationDemo\\obj\\Debug\\net9.0\\compressed\\p1yhwit2gs-9idion34rq.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1400"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Fs2GTDxlUz3FIcVsNQNIsrEVFwNbDnMIPCtkLQcuLzk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 29 Jan 2026 01:46:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Fs2GTDxlUz3FIcVsNQNIsrEVFwNbDnMIPCtkLQcuLzk="
+          "Value": "sha256-5CVWp3g/9nuicGlPvXgV7L013ZmAlESec0iPCza7Buw="
         }
       ]
     },

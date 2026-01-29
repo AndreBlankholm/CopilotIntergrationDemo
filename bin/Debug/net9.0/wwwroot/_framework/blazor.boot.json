@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CopilotIntergrationDemo",
   "resources": {
-    "hash": "sha256-tkw5Vi15WCIVPP5TJH3slWWpEvO1VI8TrS0AvVWxy5M=",
+    "hash": "sha256-5lEdYf1JJLsIK5k+vNBrshhGyQ+a1EIvwsgtSUvgU7M=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.gf26ou9jj9.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.v3fd2n5hlr.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "CopilotIntergrationDemo.3p779jt3e2.wasm": "CopilotIntergrationDemo.wasm",
-      "CopilotIntergrationDemo.me0ftqz38p.pdb": "CopilotIntergrationDemo.pdb"
+      "CopilotIntergrationDemo.1oqkbb2x8o.wasm": "CopilotIntergrationDemo.wasm",
+      "CopilotIntergrationDemo.3u2vpxgsja.pdb": "CopilotIntergrationDemo.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hvg7u8bimp.js": "sha256-LX9rFEWGVxhkOkAVPG0w5RxPwzPBlEUz6dQNjWS7M+M="
@@ -412,10 +412,10 @@
       "WindowsBase.5lai2eowco.wasm": "sha256-GcDi5293y2A7oSiFYTbBTUe0d+ISbvgeel4ZNd8KkPM=",
       "mscorlib.wzkfrp7u5k.wasm": "sha256-9PjsU0gaxxz5Vyw++p9DeYUWLsaXbaMS2RbX6wmTUmk=",
       "netstandard.d82br99ghv.wasm": "sha256-DS8keXxU4eQpa1kIoiFxOA2Ii2g9hoNWSaVi8F8AnIE=",
-      "CopilotIntergrationDemo.3p779jt3e2.wasm": "sha256-SXh0ntSl7wrGZ1U5gQqwmbHF6pKS4l433CRzRhAaGZk="
+      "CopilotIntergrationDemo.1oqkbb2x8o.wasm": "sha256-ARtaLE1nAFwO2G98s598vkRiTGktOX99AJzfUbxZGi8="
     },
     "pdb": {
-      "CopilotIntergrationDemo.me0ftqz38p.pdb": "sha256-MntTuJszhq6E6S5UIyGrZ7EwXykHArg/yyUw3Oda3Jg="
+      "CopilotIntergrationDemo.3u2vpxgsja.pdb": "sha256-5QJf/SJkiImSQluddRdDbUQDgXTw8kK0JjOKZMZ0VV0="
     }
   },
   "cacheBootResources": true,

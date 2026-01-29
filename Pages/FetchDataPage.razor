@@ -4,7 +4,7 @@
 
 <PageTitle>Fetch Data</PageTitle>
 
-<h1>Fetch Data</h1>
+<h1><span class="bi bi-heart-fill text-danger me-2" aria-hidden="true"></span>Fetch Data</h1>
 
 <p>This component demonstrates fetching data from an external API.</p>
 
@@ -46,11 +46,6 @@ else if (!string.IsNullOrEmpty(apiResponse))
     private string errorMessage = string.Empty;
     private bool isLoading = false;
     private readonly string apiUrl = "https://jsonplaceholder.typicode.com/posts/1";
-
-    protected override async Task OnInitializedAsync()
-    {
-        await FetchDataFromApi();
-    }
 
     private async Task FetchDataFromApi()
     {

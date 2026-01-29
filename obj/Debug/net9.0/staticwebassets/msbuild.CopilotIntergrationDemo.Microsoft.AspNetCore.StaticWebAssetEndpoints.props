@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="CopilotIntergrationDemo.9idion34rq.styles.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CopilotIntergrationDemo.styles.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9idion34rq"},{"Name":"integrity","Value":"sha256-H\u002BeNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE="},{"Name":"label","Value":"CopilotIntergrationDemo.styles.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4653"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022H\u002BeNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 29 Jan 2026 01:46:38 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="CopilotIntergrationDemo.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CopilotIntergrationDemo.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-H\u002BeNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4653"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022H\u002BeNeItMDP2uHHiLllBYezDnNE3UbAJbO26Y63jngiE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 29 Jan 2026 01:46:38 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0Jee\u002BDtcqmT95H5q\u002BMp4gXXNHJnk2hKslEV2FMfsr3A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4993"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220Jee\u002BDtcqmT95H5q\u002BMp4gXXNHJnk2hKslEV2FMfsr3A=\u0022"},{"Name":"Last-Modified","Value":"Thu, 29 Jan 2026 02:11:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="CopilotIntergrationDemo.ws6rhrtx47.styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CopilotIntergrationDemo.styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ws6rhrtx47"},{"Name":"integrity","Value":"sha256-0Jee\u002BDtcqmT95H5q\u002BMp4gXXNHJnk2hKslEV2FMfsr3A="},{"Name":"label","Value":"CopilotIntergrationDemo.styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4993"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220Jee\u002BDtcqmT95H5q\u002BMp4gXXNHJnk2hKslEV2FMfsr3A=\u0022"},{"Name":"Last-Modified","Value":"Thu, 29 Jan 2026 02:11:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="css/app.8rbvw3on5j.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</AssetFile>
