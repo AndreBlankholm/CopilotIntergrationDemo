@@ -1,0 +1,85 @@
+﻿@page "/counter"
+@using CopilotIntergrationDemo.Services
+@inject IApiService ApiService
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+<div class="mt-4">
+    <h3>API Service Example</h3>
+    <div class="mb-3">
+        <label for="apiUrl" class="form-label">API URL:</label>
+        <input @bind="apiUrl" type="text" class="form-control" id="apiUrl" placeholder="https://api.example.com/data" />
+    </div>
+    <button class="btn btn-success" @onclick="CallApi" disabled="@isLoading">
+        @if (isLoading)
+        {
+            <span class="spinner-border spinner-border-sm" role="status"></span>
+            <span>Loading...</span>
+        }
+        else
+        {
+            <span>Call API</span>
+        }
+    </button>
+    
+    @if (!string.IsNullOrEmpty(apiResponse))
+    {
+        <div class="alert alert-info mt-3">
+            <h6>API Response:</h6>
+            <pre>@apiResponse</pre>
+        </div>
+    }
+    
+    @if (!string.IsNullOrEmpty(errorMessage))
+    {
+        <div class="alert alert-danger mt-3">
+            <h6>Error:</h6>
+            <p>@errorMessage</p>
+        </div>
+    }
+</div>
+
+@code {
+    private int currentCount = 0;
+    private string apiUrl = "https://jsonplaceholder.typicode.com/posts/1";
+    private string apiResponse = "";
+    private string errorMessage = "";
+    private bool isLoading = false;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+    
+    private async Task CallApi()
+    {
+        if (string.IsNullOrWhiteSpace(apiUrl))
+        {
+            errorMessage = "Please enter a valid API URL";
+            return;
+        }
+        
+        isLoading = true;
+        apiResponse = "";
+        errorMessage = "";
+        
+        try
+        {
+            apiResponse = await ApiService.GetAsync(apiUrl);
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }
+}
