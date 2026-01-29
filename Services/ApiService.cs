@@ -2,13 +2,13 @@ using System.Text;
 
 namespace CopilotIntergrationDemo.Services
 {
-    public class ApiService : IApiService
+    public class ApiService
     {
         private readonly HttpClient _httpClient;
 
-        public ApiService()
+        public ApiService(HttpClient httpClient)
         {
-            _httpClient = new HttpClient();
+            _httpClient = httpClient;
         }
 
         /// <summary>
@@ -40,11 +40,11 @@ namespace CopilotIntergrationDemo.Services
         /// <param name="url">The URL to send the POST request to</param>
         /// <param name="content">Optional JSON content to send in the request body</param>
         /// <returns>The response content as a string</returns>
-        public async Task<string> PostAsync(string url, string content = null)
+        public async Task<string> PostAsync(string url, string? content = default)
         {
             try
             {
-                HttpContent httpContent = null;
+                HttpContent? httpContent = default;
                 if (!string.IsNullOrEmpty(content))
                 {
                     httpContent = new StringContent(content, Encoding.UTF8, "application/json");
@@ -70,11 +70,11 @@ namespace CopilotIntergrationDemo.Services
         /// <param name="url">The URL to send the PUT request to</param>
         /// <param name="content">Optional JSON content to send in the request body</param>
         /// <returns>The response content as a string</returns>
-        public async Task<string> PutAsync(string url, string content = null)
+        public async Task<string> PutAsync(string url, string? content = default)
         {
             try
             {
-                HttpContent httpContent = null;
+                HttpContent? httpContent = default;
                 if (!string.IsNullOrEmpty(content))
                 {
                     httpContent = new StringContent(content, Encoding.UTF8, "application/json");

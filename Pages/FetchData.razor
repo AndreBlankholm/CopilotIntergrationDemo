@@ -1,0 +1,74 @@
+@page "/fetch"
+@using CopilotIntergrationDemo.Services
+@inject ApiService ApiService
+
+<PageTitle>Fetch Data</PageTitle>
+
+<h1>Fetch Data</h1>
+
+<p>This component demonstrates fetching data from an external API.</p>
+
+@if (isLoading)
+{
+    <div class="d-flex justify-content-center">
+        <div class="spinner-border" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+    </div>
+}
+else if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger" role="alert">
+        <h4 class="alert-heading">Error!</h4>
+        <p>@errorMessage</p>
+    </div>
+}
+else if (!string.IsNullOrEmpty(apiResponse))
+{
+    <div class="alert alert-success" role="alert">
+        <h4 class="alert-heading">API Response:</h4>
+        <pre class="mb-0">@apiResponse</pre>
+    </div>
+}
+
+<div class="mt-3">
+    <button class="btn btn-primary" @onclick="FetchDataFromApi" disabled="@isLoading">
+        @if (isLoading)
+        {
+            <span class="spinner-border spinner-border-sm me-2" role="status"></span>
+        }
+        Fetch Data
+    </button>
+</div>
+
+@code {
+    private string apiResponse = string.Empty;
+    private string errorMessage = string.Empty;
+    private bool isLoading = false;
+    private readonly string apiUrl = "https://jsonplaceholder.typicode.com/posts/1";
+
+    protected override async Task OnInitializedAsync()
+    {
+        await FetchDataFromApi();
+    }
+
+    private async Task FetchDataFromApi()
+    {
+        isLoading = true;
+        apiResponse = string.Empty;
+        errorMessage = string.Empty;
+        
+        try
+        {
+            apiResponse = await ApiService.GetAsync(apiUrl);
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }
+}

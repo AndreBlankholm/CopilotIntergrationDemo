@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CopilotIntergrationDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fdd7caa8ab43367b8a09029190c79273c10c028")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cafd419293e65e5b5ccad58dd5f8cbf4fcb8f2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CopilotIntergrationDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CopilotIntergrationDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
